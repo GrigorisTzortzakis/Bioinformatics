@@ -1,6 +1,6 @@
-# CEID Course Projects
+# Bioinformatics project
 
-This repository contains **two distinct projects** developed as part of the CEID Bioinformatics & Algorithms coursework.
+This repository contains **two distinct projects** developed as part of the CEID Bioinformatics lesson.
 
 ---
 
